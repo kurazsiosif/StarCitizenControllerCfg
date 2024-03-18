@@ -8,4 +8,9 @@ A python application that allows a better customization of Star Citizen controll
    2.4 We need a way to show the user which controlls can interfere with each other, based on the modes and ground / flight vehicle etc..
 
 
-    
+To use the listGameControllersWindows.py one must install following dependency:
+pip install pywinusb
+
+To use the tabelizer.py one must install following:
+pip install matplotlib Pillow numpy
+
